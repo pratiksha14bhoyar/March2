@@ -8,5 +8,5 @@ public class Sample2
 	int q=30;
 	int sub=p-q;
 	System.out.println(sub);
- }
+  }
 }
